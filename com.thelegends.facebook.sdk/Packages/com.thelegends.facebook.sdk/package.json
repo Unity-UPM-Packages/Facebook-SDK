@@ -1,0 +1,21 @@
+{
+  "name": "com.thelegends.facebook.sdk",
+  "displayName": "com.thelegends.facebook.sdk",
+  "description": "com.thelegends.facebook.sdk description goes here.",
+  "keywords": [],
+  "version": "0.0.0",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/com.thelegends.facebook.sdk#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/com.thelegends.facebook.sdk/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/Unity-UPM-Packages/com.thelegends.facebook.sdk.git",
+    "url": "https://github.com/Unity-UPM-Packages/com.thelegends.facebook.sdk.git"
+  },
+  "author": {
+    "name": "Unity-UPM-Packages",
+    "url": "https://github.com/Unity-UPM-Packages"
+  },
+  "dependencies": {}
+}

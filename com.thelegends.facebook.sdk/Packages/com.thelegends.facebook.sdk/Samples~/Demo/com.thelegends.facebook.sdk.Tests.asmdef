@@ -1,0 +1,16 @@
+{
+    "name": "com.thelegends.facebook.sdk.Demo",
+    "rootNamespace": "com.thelegends.facebook.sdk.Demo",
+    "references": [
+        "com.thelegends.facebook.sdk"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
