@@ -1,21 +1,24 @@
 {
   "name": "com.thelegends.facebook.sdk",
-  "displayName": "com.thelegends.facebook.sdk",
-  "description": "com.thelegends.facebook.sdk description goes here.",
+  "displayName": "Facebook SDK",
+  "description": "Facebook SDK for Unity",
   "keywords": [],
-  "version": "0.0.0",
+  "version": "18.0.0",
   "unity": "2021.3",
-  "documentationUrl": "https://github.com/Unity-UPM-Packages/com.thelegends.facebook.sdk#documentation",
-  "changelogUrl": "https://github.com/Unity-UPM-Packages/com.thelegends.facebook.sdk/releases",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/Facebook-SDK#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/Facebook-SDK/releases",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "repository": "https://github.com/Unity-UPM-Packages/com.thelegends.facebook.sdk.git",
-    "url": "https://github.com/Unity-UPM-Packages/com.thelegends.facebook.sdk.git"
+    "repository": "https://github.com/Unity-UPM-Packages/Facebook-SDK.git",
+    "url": "https://github.com/Unity-UPM-Packages/Facebook-SDK.git"
   },
   "author": {
     "name": "Unity-UPM-Packages",
     "url": "https://github.com/Unity-UPM-Packages"
   },
-  "dependencies": {}
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.google.external-dependency-manager": "1.2.183"
+  }
 }
